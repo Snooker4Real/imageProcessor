@@ -1,5 +1,5 @@
 # imageProcessor
 
- ‘‘‘
- code
- ‘‘‘
+```
+python3 photoEditor.py
+```
